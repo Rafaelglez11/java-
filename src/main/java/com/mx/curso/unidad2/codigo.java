@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class Inserccion {
+public class codigo {
 
     public static void insertionSort(int[] arr) {
         int n = arr.length;

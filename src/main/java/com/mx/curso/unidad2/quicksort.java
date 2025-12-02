@@ -1,4 +1,4 @@
-public class quicksort {
+public class quicksort{
 
     // Método principal QuickSort
     public static void quickSort(int[] arr, int inicio, int fin) {
